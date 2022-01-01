@@ -1,2 +1,3 @@
 # StoreFront
 storefront project
+DjangoProject
